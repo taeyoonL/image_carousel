@@ -1,16 +1,10 @@
-# image_carousel
+# 설명
+**페이지 뷰**와 **페이지 컨트롤러**, **위젯의 생명주기** 등을 이용하여 만든 간단한 사진 앱입니다.
 
-A new Flutter project.
+# 주요 기능
+1. 앱에는 총 **어벤져스 1부터 4까지의 포스터 사진**이 있다.
+2. 앱을 실행하면, **어벤져스 1 포스터 사진**부터 **왼쪽**으로 사진을 넘겨서 **어벤져스 4 포스터 사진**까지 넘어갔을 경우, 더 넘기지 않는다.
+3. 사진을 넘기면 **그 사진부터** **왼쪽**으로 사진을 넘긴다.
 
-## Getting Started
+# 실행 화면
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
