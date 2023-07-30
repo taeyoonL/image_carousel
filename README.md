@@ -8,3 +8,4 @@
 
 # 실행 화면
 
+![ezgif com-video-to-gif (24)](https://github.com/taeyoonL/image_carousel/assets/132141316/bd28d1ca-4c5c-479c-9ee3-975e16166148)
